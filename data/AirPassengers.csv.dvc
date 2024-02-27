@@ -1,5 +1,5 @@
 outs:
-- md5: 167ffa96204a2b47339c21eea25baf32
-  size: 1746
+- md5: 61dea3316743ae6502761ca07031eff5
+  size: 1303
   hash: md5
   path: AirPassengers.csv
